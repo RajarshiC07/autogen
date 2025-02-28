@@ -1,0 +1,34 @@
+[
+    {
+        "model": "gpt-35-turbo",
+        "api_key": "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"
+    },
+    {
+        "model": "gpt-4-vision-preview",
+        "api_key": "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"
+    },
+    {
+        "model": "dalle",
+        "api_key": "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"
+    },
+    {
+        "model": "gemini-pro",
+        "api_key": "AIzaSyBsaS3h_3QGiTUKDfcrlZa0xhI5SUZlXRo",
+        "api_type": "google"
+    },
+    {
+        "model": "gemini-1.5-pro-001",
+        "api_type": "google"
+    },
+    {
+        "model": "gemini-1.5-pro",
+        "project_id": "your-awesome-google-cloud-project-id",
+        "location": "us-west1",
+        "google_application_credentials": "your-google-service-account-key.json"
+    },
+    {
+        "model": "gemini-pro-vision",
+        "api_key": "AIzaSyBsaS3h_3QGiTUKDfcrlZa0xhI5SUZlXRo",
+        "api_type": "google"
+    }
+]

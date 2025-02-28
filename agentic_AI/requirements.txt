@@ -1,0 +1,7 @@
+autogen-agentchat~=0.2
+llama-index
+ag2[teachable]
+ag2[long-context]
+huggingface_hub
+autogen
+llama-index-retrievers-bm25
