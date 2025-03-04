@@ -5,3 +5,6 @@ ag2[long-context]
 huggingface_hub
 autogen
 llama-index-retrievers-bm25
+llmsherpa
+llama-index-readers-pdf-table
+langchain-openai
